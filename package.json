@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "browserify-zlib": "^0.2.0",
+    "crypto-browserify": "^3.12.1",
+    "ethers": "^6.13.5",
+    "https-browserify": "^1.0.0",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "@types/node": "^20.11.0",
+    "chai": "^4.3.7",
+    "truffle": "^5.11.5"
+  }
+}
